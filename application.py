@@ -7,5 +7,5 @@ def hello():
 
 
 @app.route("/barcelonaActiva")
-def hello():
+def newEndpoint():
     return "primera app a azure amb backend"
