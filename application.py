@@ -12,5 +12,5 @@ def newEndpoint():
 
 
 @app.route("/renderingTemplate")
-def newEndpoint():
+def rendertemplate():
     return render_template('test.html')
